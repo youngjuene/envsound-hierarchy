@@ -1,0 +1,101 @@
+Music:
+  Mixed:
+    - Trumpet
+    - Crash_cymbal
+    - Hi-hat
+    - Bass_drum 
+    - Snare_drum 
+    - Tabla
+    - Acoustic_guitar 
+    - Bass_guitar 
+    - Electric_guitar
+    - Organ
+    - Piano
+    - Accordion 
+    - Bowed_string_instrument 
+    - Harmonica 
+    - Harp 
+    - Scratching_(performance_technique)
+    - Drum_kit 
+    - Gong 
+    - Rattle_(instrument)
+    - Tambourine
+
+Vocal:
+  Consequent_v:
+    - Bark
+    - Meow
+    - Chirp_and_tweet
+    - Gasp
+    - Screaming 
+    - Sigh 
+    - Giggle
+    - Cough
+    - Sneeze
+    - Yell
+
+  Signal_v:
+    - Whispering
+    - Female_singing 
+    - Male_singing
+    - Child_speech_and_kid_speaking 
+    - Female_speech_and_woman_speaking 
+    - Male_speech_and_man_speaking 
+    - Speech_synthesizer
+    
+Surrounding:
+  Consequent_s:
+    - Coin_(dropping)
+    - Cowbell
+    - Cupboard_open_or_close
+    - Cutlery_and_silverware
+    - Dishes_and_pots_and_pans 
+    - Drawer_open_or_close 
+    - Keys_jangling 
+    - Microwave_oven 
+    - Packing_tape_and_duct_tape 
+    - Scissors 
+    - Writing 
+    - Zipper_(clothing)
+    - Doorbell 
+    - Slam
+    - Boom 
+    - Fireworks 
+    - Gunshot_and_gunfire
+    - Chink_and_clink
+    - Shatter
+    - Drip 
+    - Splash_and_splatter
+    - Camera
+    - Printer 
+    - Ratchet_and_pawl
+    - Skateboard
+    - Drill
+    - Subway_and_metro_and_underground
+    - Hammer
+    - Computer_keyboard 
+    - Typewriter 
+    - Burping_and_eructation 
+    - Fart
+    - Run 
+    - Walk_and_footsteps
+    - Thump_and_thud 
+    - Whoosh_and_swoosh_and_swish
+    - Hiss
+    - Rattle
+    - Squeak
+    - Crackle
+    - Crack
+    - Crumpling_and_crinkling 
+    - Crushing 
+    - Tearing
+    - Tap
+    - Gurgling 
+    - Wind
+
+  Signal_s:
+    - Bicycle_bell
+    - Ringtone
+    - Clapping 
+    - Finger_snapping
+    - Knock 

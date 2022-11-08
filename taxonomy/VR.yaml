@@ -1,0 +1,143 @@
+Animate objects:
+  Dog:
+    - Bark
+  Cat: 
+    - Meow
+  Bird_vocalization_and_bird_call_and_bird_song: 
+    - Chirp_and_tweet
+  Human_locomotion: 
+    - Run 
+    - Walk_and_footsteps 
+
+Inanimate objects:
+  Domestic_sounds_and_home_sounds:
+    - Coin_(dropping)
+    - Cupboard_open_or_close
+    - Cutlery_and_silverware
+    - Dishes_and_pots_and_pans 
+    - Drawer_open_or_close 
+    - Keys_jangling 
+    - Microwave_oven 
+    - Packing_tape_and_duct_tape 
+    - Scissors 
+    - Writing 
+    - Zipper_(clothing)
+  Door: 
+    - Doorbell 
+    - Slam
+  Explosion: 
+    - Boom 
+    - Fireworks 
+    - Gunshot_and_gunfire
+  Glass: 
+    - Chink_and_clink
+    - Shatter
+  Liquid: 
+    - Drip 
+    - Splash_and_splatter
+  Mechanisms: 
+    - Camera 
+    - Printer 
+    - Ratchet_and_pawl
+  Non-motorized land vehicle: 
+    - Skateboard
+  Power_tool: 
+    - Drill
+  Tools: 
+    - Hammer
+  Typing: 
+    - Computer_keyboard 
+    - Typewriter
+  
+Non-localized speech:
+  Breathing: 
+    - Gasp
+  Digestive: 
+    - Burping_and_eructation 
+    - Fart
+  Hands: 
+    - Clapping 
+    - Finger_snapping
+  Laughter: 
+    - Giggle
+  Respiratory sounds: 
+    - Cough 
+    - Sneeze
+  Human_voice: 
+    - Screaming 
+    - Sigh 
+    - Whispering
+  Shout: 
+    - Yell
+  Singing: 
+    - Female_singing 
+    - Male_singing
+  Speech: 
+    - Child_speech_and_kid_speaking 
+    - Female_speech_and_woman_speaking 
+    - Male_speech_and_man_speaking 
+    - Speech_synthesizer
+
+Interaction sounds:
+  Generic_impact_sounds: 
+    - Knock 
+    - Tap
+  Deformable_shell:
+    - Crumpling_and_crinkling 
+    - Crushing 
+    - Tearing
+  Arrow: 
+    - Thump_and_thud 
+    - Whoosh_and_swoosh_and_swish
+  Onomatopoeia:
+    - Hiss
+    - Rattle
+    - Squeak
+    - Crackle
+    - Crack
+
+Notification sounds:
+  Telephone: 
+    - Ringtone
+  Instrument:
+    - Gong
+    - Harp
+  Bicycle:
+    - Bicycle_bell
+  Cattle_and_bovinae:
+    - Cowbell
+    
+Surrounding ambience: 
+  Water: 
+    - Gurgling
+  Wind_noise_(microphone): 
+    - Wind
+  Rail transport: 
+    - Subway_and_metro_and_underground
+
+Music:
+  Brass_instrument: 
+    - Trumpet
+  Cymbal: 
+    - Crash_cymbal
+    - Hi-hat
+  Drum: 
+    - Bass_drum 
+    - Snare_drum 
+    - Tabla
+  Guitar:
+    - Acoustic_guitar 
+    - Bass_guitar 
+    - Electric_guitar
+  Keyboard_(musical):
+    - Organ
+    - Piano
+  Musical_instrument: 
+    - Accordion 
+    - Bowed_string_instrument 
+    - Harmonica  
+    - Scratching_(performance_technique)
+  Percussion: 
+    - Drum_kit 
+    - Rattle_(instrument)
+    - Tambourine
