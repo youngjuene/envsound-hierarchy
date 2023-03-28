@@ -1,6 +1,6 @@
 # Hierarchical Classification for Environmental Sounds with Few-shot Learning
 
-PyTorch implementation of "Hierarchical Classification for Environmental Sounds with Few-shot Learning" (Submitted on ICASSP 2023)
+PyTorch implementation of "Hierarchical Classification for Environmental Sounds with Few-shot Learning"
 
 ![main](https://user-images.githubusercontent.com/116733923/201276769-dda3e4f8-24d6-4b17-89de-84f43cb17df5.png)
 
